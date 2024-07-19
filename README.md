@@ -1,1 +1,1 @@
-# writing_wizard_AI
+Writing-Wizard-AI
